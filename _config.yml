@@ -14,7 +14,7 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Tomcats Example"
+title:       "TomCats"
 keywords:    "Tomcats, band, Clackamas, Gladstone"
 description: "Homepage for geriatric rock band TomCats"
 source_link: "https://github.com/t413/SinglePaged"
